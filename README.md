@@ -1,3 +1,3 @@
 # Automotive-course-work-code
 
-This is the code used to plot in task 1 the required figures. 
+The code in this repository was used to plot the figures required for the automotive course work. 
